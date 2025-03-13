@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Team Meeting",
+    "description": "Discuss project updates",
+    "start": "2025-03-01T10:00:00",
+    "end": "2025-03-01T11:00:00",
+    "meetingLink": "https://meet.google.com/abc-xyz"
+  },
+  {
+    "id": 2,
+    "title": "Client Call",
+    "description": "Discuss requirements",
+    "start": "2025-03-15T14:00:00",
+    "end": "2025-03-15T15:00:00",
+    "meetingLink": "https://meet.google.com/pqr-stu"
+  },
+  {
+    "id": 3,
+    "title": "Workshop",
+    "description": "React.js Workshop",
+    "start": "2025-03-20T09:00:00",
+    "end": "2025-03-20T12:00:00",
+    "meetingLink": "https://meet.google.com/def-ghi"
+  },
+  {
+    "id": 4,
+    "title": "Sprint Planning",
+    "description": "Plan the next sprint",
+    "start": "2025-04-01T10:00:00",
+    "end": "2025-04-01T12:00:00",
+    "meetingLink": "https://meet.google.com/jkl-mno"
+  },
+  {
+    "id": 5,
+    "title": "Product Demo",
+    "description": "Demo the new features",
+    "start": "2025-04-15T14:00:00",
+    "end": "2025-04-15T15:00:00",
+    "meetingLink": "https://meet.google.com/uvw-xyz"
+  },
+  {
+    "id": 6,
+    "title": "Retrospective",
+    "description": "Discuss the sprint retrospective",
+    "start": "2025-04-30T16:00:00",
+    "end": "2025-04-30T17:00:00",
+    "meetingLink": "https://meet.google.com/rst-uvw"
+  }
+]
